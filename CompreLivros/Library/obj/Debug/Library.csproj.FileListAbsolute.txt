@@ -1,0 +1,15 @@
+C:\Users\deivi\Desktop\TOCALIVROS\CompreLivros\Library\bin\Debug\Library.dll
+C:\Users\deivi\Desktop\TOCALIVROS\CompreLivros\Library\bin\Debug\Library.pdb
+C:\Users\deivi\Desktop\TOCALIVROS\CompreLivros\Library\obj\Debug\Library.dll
+C:\Users\deivi\Desktop\TOCALIVROS\CompreLivros\Library\obj\Debug\Library.pdb
+C:\Users\deivi\Desktop\TOCALIVROS\CompreLivros\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\k31-integral\Downloads\TOCALIVROS\TOCALIVROS\CompreLivros\Library\bin\Debug\Library.dll
+C:\Users\k31-integral\Downloads\TOCALIVROS\TOCALIVROS\CompreLivros\Library\bin\Debug\Library.pdb
+C:\Users\k31-integral\Downloads\TOCALIVROS\TOCALIVROS\CompreLivros\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\k31-integral\Downloads\TOCALIVROS\TOCALIVROS\CompreLivros\Library\obj\Debug\Library.dll
+C:\Users\k31-integral\Downloads\TOCALIVROS\TOCALIVROS\CompreLivros\Library\obj\Debug\Library.pdb
+C:\Users\dveloso\Downloads\Deivid_Higino_Veloso\TOCALIVROS\CompreLivros\Library\bin\Debug\Library.dll
+C:\Users\dveloso\Downloads\Deivid_Higino_Veloso\TOCALIVROS\CompreLivros\Library\bin\Debug\Library.pdb
+C:\Users\dveloso\Downloads\Deivid_Higino_Veloso\TOCALIVROS\CompreLivros\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\dveloso\Downloads\Deivid_Higino_Veloso\TOCALIVROS\CompreLivros\Library\obj\Debug\Library.dll
+C:\Users\dveloso\Downloads\Deivid_Higino_Veloso\TOCALIVROS\CompreLivros\Library\obj\Debug\Library.pdb
